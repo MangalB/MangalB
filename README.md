@@ -1,4 +1,4 @@
-<b> <h1> 🌱 Hi, I’m Mangal Bind </h1></b>
+<b> <h1> Hi, I’m Mangal Bind </h1></b>
 
 - 👀 I’m interested in learning and implementing up to date techs.
 - 🌱 I’m currently learning Flutter.
