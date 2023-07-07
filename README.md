@@ -1,5 +1,9 @@
 <div align="center">
-  <h1>Mangal Bind</h1>
+  <div align="center"> <h1> Mangal Bind  </h1>
+    <a href="https://github.com/johannchopin/stackoverflow-readme-profile">
+  <img src="https://stackoverflow-readme-profile.johannchopin.fr/profile-small/5954635?theme=dark" alt="user:5954635's SO profile">
+</a>
+  </div>
   <p>Hi there! I'm a mobile app developer with 7 years of experience building apps for Android and React Native. I'm passionate about creating beautiful, functional, and user-friendly apps that make people's lives easier.</p>
   
 ![](https://camo.githubusercontent.com/992babdffd8c74a1502de375fbdf7e4d54773242/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966)
